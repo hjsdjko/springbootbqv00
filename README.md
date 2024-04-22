@@ -1,27 +1,39 @@
 
 
-【需要源码和论文：QQ联系 979748385 QQ群 601569450】
+[索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
-推荐使用：谷歌浏览器 
+关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-后台地址
-http://localhost:8080/springbootxs5o6/admin/dist/index.html
+***************************************************************
 
-管理员  abo 密码 abo
+系统架构
 
+前端：html | js | css | jquery | vue
 
-前台地址：http://localhost:8080/springbootxs5o6/front/index.html
+后端：springboot | mybatis
 
+环境：jdk1.8+ | mysql | maven
 
+使用说明
 
-在src\main\resources\application.yml中编辑
-											
-	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-	    username: root
-	    password: 123456 （数据库密码）
+1、下载源码，导入IDEA
 
-![输入图片说明](2748bb576cc3ccc0153df8794905751.png)
-![输入图片说明](ff68e72450c33bdd80b2689ddea1335.png)
-![输入图片说明](0ea3e195d14dcf488a512529abfb0fa.png)
-![输入图片说明](6d23b0f7316d1314ea54771d5cb6638.png)
-![输入图片说明](4c882efeade963ca44bb2f28023cc4d.png)
+2、创建数据库，执行数据库脚本
+
+3、修改数据库JDBC连接参数
+
+4、在IDEA中运行
+
+5、打开浏览器，参考<说明文档.txt>中的地址
+
+***************************************************************
+
+![b42f62e411a214b9133cde2af7da2f4](https://github.com/hjsdjko/springbootbqv00/assets/120558513/7603c804-c65a-43ae-90b0-c26c3ddedf3f)
+
+![1df3cb7cb38998c2fcdab868dce4a58](https://github.com/hjsdjko/springbootbqv00/assets/120558513/c87432a7-728d-4e81-94d4-9ccc2b695a80)
+
+![486dde49360d9bbd7e0a2e214ecdd8f](https://github.com/hjsdjko/springbootbqv00/assets/120558513/ed7df1ba-d072-4d70-847e-26635d1d87e1)
+
+![d3bc08ac2a48f0e4865b44019a375b8](https://github.com/hjsdjko/springbootbqv00/assets/120558513/50fe5fea-63d6-4cb8-b895-d46b5f0c5ec4)
+
+![d760549700e9b80d6a1908137c30887](https://github.com/hjsdjko/springbootbqv00/assets/120558513/f8c82cf1-873a-4bf9-89b6-272640756edb)
